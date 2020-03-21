@@ -1,0 +1,51 @@
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\Bin\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\obj\Release\LiveTileScheduledTaskAgent.pdb

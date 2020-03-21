@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="dtPickerHdrDaySince" xml:space="preserve">
+    <value>Days Since</value>
+  </data>
+  <data name="PivotTitle" xml:space="preserve">
+    <value>Days Since</value>
+  </data>
+  <data name="pvtHdrDaySince" xml:space="preserve">
+    <value>Days Since</value>
+  </data>
+  <data name="chkBoxSaveSelectedDate" xml:space="preserve">
+    <value>Save Selected Date</value>
+  </data>
+  <data name="chkBoxShowDateOnLiveTile" xml:space="preserve">
+    <value>Show Date On Live Tile</value>
+  </data>
+  <data name="pvtHdrDateDiff" xml:space="preserve">
+    <value>Date Diff</value>
+  </data>
+  <data name="pvtHdrPrayers" xml:space="preserve">
+    <value>Prayers</value>
+  </data>
+  <data name="pvtHdrThe12Steps" xml:space="preserve">
+    <value>The 12 Steps</value>
+  </data>
+  <data name="pvtHdrThe12Traditions" xml:space="preserve">
+    <value>The 12 Traditions</value>
+  </data>
+  <data name="dtPickerFromDate" xml:space="preserve">
+    <value>From Date:</value>
+  </data>
+  <data name="dtPickerToDate" xml:space="preserve">
+    <value>To Date:</value>
+  </data>
+  <data name="prySerenity" xml:space="preserve">
+    <value>God grant me the serenity to accept the things I cannot change, the courage to change the things I can and the wisdom to know the difference.</value>
+  </data>
+  <data name="txtSerenityPrayer" xml:space="preserve">
+    <value>Serenity Prayer</value>
+  </data>
+  <data name="pryStep10Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I pray I may continue: To grow in understanding and effectiveness; To take daily spot check inventories of myself; To correct mistakes when I make them; To take responsibility for my actions; To be ever aware of my negative and self-defeating attitudes and behaviors; To keep my willfulness in check; To always remember I need Your help; To keep love and tolerance of others as my code; And to continue in daily prayer how I can best serve You, My Higher Power.</value>
+  </data>
+  <data name="pryStep11Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I pray to keep my connection with You open and clear from the confusion of daily life. Through my prayers and meditation I ask especially for freedom from self-will, rationalization, and wishful thinking. I pray for the guidance of correct thought and positive action. Your will, Higher Power, not mine, be done.</value>
+  </data>
+  <data name="pryStep12Prayer" xml:space="preserve">
+    <value>Dear Higher Power, my spiritual awakening continues to unfold. The help I have received I shall pass on and give to others, both in and out of the Fellowship. For this opportunity I am grateful. I pray most humbly to continue walking day by day on the road of spiritual progress. I pray for the inner strength and wisdom to practice the principles of this way of life in all I do and say. I need You, my friends, and the program every hour of every day. This is a better way to live.</value>
+  </data>
+  <data name="pryStep1Prayer" xml:space="preserve">
+    <value>Dear Higher Power, my name is ____. I'm a real alcoholic... and I need your help today.</value>
+  </data>
+  <data name="pryStep2Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I'm standing at the turning point right now. Give me your protection and care as I abandon myself to you and give up my old ways and my old ideas just for today.</value>
+  </data>
+  <data name="pryStep3Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I offer myself to Thee to build with me and to do with me as Thou wilt. Relieve me of the bondage of self, that I may better do Thy will. Take away my difficulties, that victory over them may bear witness to those I would help of Thy Power, Thy Love, and Thy Way of life. May I do Thy will always.</value>
+  </data>
+  <data name="pryStep4Prayer" xml:space="preserve">
+    <value>Dear Higher Power, It is I who has made my life a mess. I have done it, but I cannot undo it. My mistakes are mine and I will begin a searching and fearless moral inventory. I will write down my wrongs but I will also include that which is good. I pray for the strength to complete the task.</value>
+  </data>
+  <data name="pryStep5Prayer" xml:space="preserve">
+    <value>Dear Higher Power, My inventory has shown me who I am, Yet I ask for Your help in admitting my wrongs to another person and to You. Assure me, and be with me, in this step, for without this Step I cannot progress in my recovery. With Your help, I can do this, and I do it.</value>
+  </data>
+  <data name="pryStep6Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I am ready for Your help in removing from me the defects of character which I now realize are an obstacle to my recovery. Help me to continue being honest with myself and guide me toward spiritual and mental health.</value>
+  </data>
+  <data name="pryStep7Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I am now willing that you should have all of me, good and bad. I pray that you now remove from me every single defect of character which stands in the way of my usefulness to you and my fellows. Grant me strength, as I go out from here to do your bidding.</value>
+  </data>
+  <data name="pryStep8Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I ask Your help in making my list of all those I have harmed. I will take responsibility for my mistakes and be forgiving to others as You are forgiving to me. Grant me the willingness to begin my restitution. This I pray.</value>
+  </data>
+  <data name="pryStep9Prayer" xml:space="preserve">
+    <value>Dear Higher Power, I pray for the right attitude to make my amends, being ever mindful not to harm others in the process. I ask for Your guidance in making indirect amends. Most important, I will continue to make amends by staying abstinent, helping others and growing in spiritual progress.</value>
+  </data>
+  <data name="txt10thStepPrayer" xml:space="preserve">
+    <value>10th Step Prayer</value>
+  </data>
+  <data name="txt11thStepPrayer" xml:space="preserve">
+    <value>11th Step Prayer</value>
+  </data>
+  <data name="txt12thStepPrayer" xml:space="preserve">
+    <value>12th Step Prayer</value>
+  </data>
+  <data name="txt1stStepPrayer" xml:space="preserve">
+    <value>1st Step Prayer</value>
+  </data>
+  <data name="txt2ndStepPrayer" xml:space="preserve">
+    <value>2nd Step Prayer</value>
+  </data>
+  <data name="txt3rdStepPrayer" xml:space="preserve">
+    <value>3rd Step Prayer</value>
+  </data>
+  <data name="txt4thStepPrayer" xml:space="preserve">
+    <value>4th Step Prayer</value>
+  </data>
+  <data name="txt5thStepPrayer" xml:space="preserve">
+    <value>5th Step Prayer</value>
+  </data>
+  <data name="txt6thStepPrayer" xml:space="preserve">
+    <value>6th Step Prayer</value>
+  </data>
+  <data name="txt7thStepPrayer" xml:space="preserve">
+    <value>7th Step Prayer</value>
+  </data>
+  <data name="txt8thStepPrayer" xml:space="preserve">
+    <value>8th Step Prayer</value>
+  </data>
+  <data name="txt9thStepPrayer" xml:space="preserve">
+    <value>9th Step Prayer</value>
+  </data>
+  <data name="txtStep1" xml:space="preserve">
+    <value>Step 1</value>
+  </data>
+  <data name="txtStep10" xml:space="preserve">
+    <value>Step 10</value>
+  </data>
+  <data name="txtStep11" xml:space="preserve">
+    <value>Step 11</value>
+  </data>
+  <data name="txtStep12" xml:space="preserve">
+    <value>Step 12</value>
+  </data>
+  <data name="txtStep2" xml:space="preserve">
+    <value>Step 2</value>
+  </data>
+  <data name="txtStep3" xml:space="preserve">
+    <value>Step 3</value>
+  </data>
+  <data name="txtStep4" xml:space="preserve">
+    <value>Step 4</value>
+  </data>
+  <data name="txtStep5" xml:space="preserve">
+    <value>Step 5</value>
+  </data>
+  <data name="txtStep6" xml:space="preserve">
+    <value>Step 6</value>
+  </data>
+  <data name="txtStep7" xml:space="preserve">
+    <value>Step 7</value>
+  </data>
+  <data name="txtStep8" xml:space="preserve">
+    <value>Step 8</value>
+  </data>
+  <data name="txtStep9" xml:space="preserve">
+    <value>Step 9</value>
+  </data>
+  <data name="txtStep10Content" xml:space="preserve">
+    <value>Continued to take personal inventory and when we were wrong promptly admitted it.</value>
+  </data>
+  <data name="txtStep11Content" xml:space="preserve">
+    <value>Sought through prayer and meditation to improve our conscious contact with God, as we understood Him, praying only for knowledge of His will for us and the power to carry that out.</value>
+  </data>
+  <data name="txtStep12Content" xml:space="preserve">
+    <value>Having had a spiritual awakening as the result of these Steps, we tried to carry this message to other alcoholics, and to practice these principles in all our affairs.</value>
+  </data>
+  <data name="txtStep1Content" xml:space="preserve">
+    <value>We admitted we were powerless over alcohol - that our lives had become unmanageable.</value>
+  </data>
+  <data name="txtStep2Content" xml:space="preserve">
+    <value>Came to believe that a Power greater than ourselves could restore us to sanity.</value>
+  </data>
+  <data name="txtStep3Content" xml:space="preserve">
+    <value>Made a decision to turn our will and our lives over to the care of God as we understood Him.</value>
+  </data>
+  <data name="txtStep4Content" xml:space="preserve">
+    <value>Made a searching and fearless moral inventory of ourselves.</value>
+  </data>
+  <data name="txtStep5Content" xml:space="preserve">
+    <value>Admitted to God, to ourselves and to another human being the exact nature of our wrongs.</value>
+  </data>
+  <data name="txtStep6Content" xml:space="preserve">
+    <value>Were entirely ready to have God remove all these defects of character.</value>
+  </data>
+  <data name="txtStep7Content" xml:space="preserve">
+    <value>Humbly asked Him to remove our shortcomings.</value>
+  </data>
+  <data name="txtStep8Content" xml:space="preserve">
+    <value>Made a list of all persons we had harmed, and became willing to make amends to them all.</value>
+  </data>
+  <data name="txtStep9Content" xml:space="preserve">
+    <value>Made direct amends to such people wherever possible, except when to do so would injure them or others.</value>
+  </data>
+  <data name="txtTradition1" xml:space="preserve">
+    <value>Tradition 1</value>
+  </data>
+  <data name="txtTradition10" xml:space="preserve">
+    <value>Tradition 10</value>
+  </data>
+  <data name="txtTradition10Content" xml:space="preserve">
+    <value>Alcoholics Anonymous has no opinion on outside issues; hence the A.A. name ought never be drawn into public controversy.</value>
+  </data>
+  <data name="txtTradition11" xml:space="preserve">
+    <value>Tradition 11</value>
+  </data>
+  <data name="txtTradition11Content" xml:space="preserve">
+    <value>Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.</value>
+  </data>
+  <data name="txtTradition12" xml:space="preserve">
+    <value>Tradition 12</value>
+  </data>
+  <data name="txtTradition12Content" xml:space="preserve">
+    <value>Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.</value>
+  </data>
+  <data name="txtTradition1Content" xml:space="preserve">
+    <value>Our common welfare should come first; personal recovery depends upon A.A. unity.</value>
+  </data>
+  <data name="txtTradition2" xml:space="preserve">
+    <value>Tradition 2</value>
+  </data>
+  <data name="txtTradition2Content" xml:space="preserve">
+    <value>For our group purpose there is but one ultimate authority—a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern.</value>
+  </data>
+  <data name="txtTradition3" xml:space="preserve">
+    <value>Tradition 3</value>
+  </data>
+  <data name="txtTradition3Content" xml:space="preserve">
+    <value>The only requirement for A.A. membership is a desire to stop drinking.</value>
+  </data>
+  <data name="txtTradition4" xml:space="preserve">
+    <value>Tradition 4</value>
+  </data>
+  <data name="txtTradition4Content" xml:space="preserve">
+    <value>Each group should be autonomous except in matters affecting other groups or A.A. as a whole.</value>
+  </data>
+  <data name="txtTradition5" xml:space="preserve">
+    <value>Tradition 5</value>
+  </data>
+  <data name="txtTradition5Content" xml:space="preserve">
+    <value>Each group has but one primary purpose—to carry its message to the alcoholic who still suffers.</value>
+  </data>
+  <data name="txtTradition6" xml:space="preserve">
+    <value>Tradition 6</value>
+  </data>
+  <data name="txtTradition6Content" xml:space="preserve">
+    <value>An A.A. group ought never endorse, finance, or lend the A.A. name to any related facility or outside enterprise, lest problems of money, property, and prestige divert us from our primary purpose.</value>
+  </data>
+  <data name="txtTradition7" xml:space="preserve">
+    <value>Tradition 7</value>
+  </data>
+  <data name="txtTradition7Content" xml:space="preserve">
+    <value>Every A.A. group ought to be fully self-supporting, declining outside contributions.</value>
+  </data>
+  <data name="txtTradition8" xml:space="preserve">
+    <value>Tradition 8</value>
+  </data>
+  <data name="txtTradition8Content" xml:space="preserve">
+    <value>Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers.</value>
+  </data>
+  <data name="txtTradition9" xml:space="preserve">
+    <value>Tradition 9</value>
+  </data>
+  <data name="txtTradition9Content" xml:space="preserve">
+    <value>A.A., as such, ought never be organized; but we may create service boards or committees directly responsible to those they serve.</value>
+  </data>
+  <data name="txtAbout" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="txtCopyrightCaralex" xml:space="preserve">
+    <value>Copyright © Caralex</value>
+  </data>
+  <data name="txtFeedbackIsAlways" xml:space="preserve">
+    <value>Feedback is always appreciated, so feel free to drop us a line:</value>
+  </data>
+  <data name="txtIfYouLikeThisApp" xml:space="preserve">
+    <value>If you like this app, please review it:</value>
+  </data>
+  <data name="txtReviewInMarketplace" xml:space="preserve">
+    <value>Review in Marketplace</value>
+  </data>
+  <data name="txtEmailUs" xml:space="preserve">
+    <value>Email Us</value>
+  </data>
+  <data name="txtIfTheAppIsNotLaunched" xml:space="preserve">
+    <value>If the application is not launched for 2 weeks, the Live Tile will stop updating. This is a Windows Phone OS restriction. You must re-launch, re-select your date from 'Days Since' and re-select the 'Show on Live Tile' checkbox again.</value>
+  </data>
+  <data name="txtInfoInThisAppNotCollected" xml:space="preserve">
+    <value>Information in this application is not collected or distributed and is meant only for your viewing pleasure.</value>
+  </data>
+  <data name="txtLiveTileGetsUpdated" xml:space="preserve">
+    <value>The Live Tile gets updated every half hour after power-up.  So if the 'Days Since' count is off, wait half an hour for it to update correctly.</value>
+  </data>
+  <data name="txtNotesColon" xml:space="preserve">
+    <value>Notes:</value>
+  </data>
+  <data name="txtWherePrayer10IsFrom" xml:space="preserve">
+    <value>10: Developed from Chapter 6, "Into Action", from pg 84 thru pg 85. (4th ed,)</value>
+  </data>
+  <data name="txtWherePrayer11IsFrom" xml:space="preserve">
+    <value>11: Developed from Chapter 6, "Into Action", from pg 85 thru pg 88. (4th ed.)</value>
+  </data>
+  <data name="txtWherePrayer12IsFrom" xml:space="preserve">
+    <value>12: Developed from Chapter 7, "Working With Others", from pg 89. (4th ed.)</value>
+  </data>
+  <data name="txtWherePrayer1IsFrom" xml:space="preserve">
+    <value>1: Developed from Chapter 3, "More About Alcoholism", pg 30. (4th ed.)</value>
+  </data>
+  <data name="txtWherePrayer2IsFrom" xml:space="preserve">
+    <value>2: Developed from Chapter 5, "How It Works", pg 59. (4th ed.)</value>
+  </data>
+  <data name="txtWherePrayer3IsFrom" xml:space="preserve">
+    <value>3: From Chapter 5, "How It Works", pg 63. (4th ed.)</value>
+  </data>
+  <data name="txtWherePrayer4IsFrom" xml:space="preserve">
+    <value>4: Developed from chapter 5, "How It Works", (4th ed).</value>
+  </data>
+  <data name="txtWherePrayer5IsFrom" xml:space="preserve">
+    <value>5: Developed from chapter 6, "Into Action", pg 72 thru pg 75. (4th ed).</value>
+  </data>
+  <data name="txtWherePrayer6IsFrom" xml:space="preserve">
+    <value>6: Developed from Chapter 6, "Into Action", From pg 76. (4th ed.)</value>
+  </data>
+  <data name="txtWherePrayer7IsFrom" xml:space="preserve">
+    <value>7: From Chapter 6, "Into Action",. From pg 76:2. (4th ed).</value>
+  </data>
+  <data name="txtWherePrayer8IsFrom" xml:space="preserve">
+    <value>8: Developed from Chapter 6, "Into Action", from pg 76. (4th ed).</value>
+  </data>
+  <data name="txtWherePrayer9IsFrom" xml:space="preserve">
+    <value>9: Developed from Chapter 6, "Into Action", from pg 84 thru pg 85. (4th ed).</value>
+  </data>
+  <data name="txtWherePrayersAreFrom" xml:space="preserve">
+    <value>* Where the prayers are from in the Big Book:</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Days Since</value>
+  </data>
+  <data name="txtVersion" xml:space="preserve">
+    <value>Version 1.2.0.0</value>
+  </data>
+  <data name="txtBackAgentsDisabled" xml:space="preserve">
+    <value>Background agents for this application have been disabled by the user.</value>
+  </data>
+  <data name="txtBNSError" xml:space="preserve">
+    <value>BNS Error: The action is disabled</value>
+    <comment>E</comment>
+  </data>
+  <data name="txtMaxScheduledActions" xml:space="preserve">
+    <value>BNS Error: The maximum number of ScheduledActions of this type have already been added.</value>
+  </data>
+  <data name="txtPeriodicTaskDesc" xml:space="preserve">
+    <value>Days Since Tile Update Task</value>
+  </data>
+  <data name="txtEmailFeedback" xml:space="preserve">
+    <value>Feedback on Days Since app v1.2.0.0</value>
+  </data>
+</root>

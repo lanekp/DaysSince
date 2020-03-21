@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeMetricsReport Version="10">
+   <Targets>
+      <Target Name="C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Debug\DaysSince.dll">
+         <Modules>
+            <Module Name="DaysSince.dll" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="73" />
+                  <Metric Name="CyclomaticComplexity" Value="99" />
+                  <Metric Name="ClassCoupling" Value="43" />
+                  <Metric Name="DepthOfInheritance" Value="8" />
+                  <Metric Name="LinesOfCode" Value="199" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="DaysSince">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="73" />
+                        <Metric Name="CyclomaticComplexity" Value="99" />
+                        <Metric Name="ClassCoupling" Value="43" />
+                        <Metric Name="DepthOfInheritance" Value="8" />
+                        <Metric Name="LinesOfCode" Value="199" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="ItemViewModel">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="83" />
+                              <Metric Name="CyclomaticComplexity" Value="16" />
+                              <Metric Name="ClassCoupling" Value="5" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="29" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="LineOne.get() : string" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\ItemViewModel.cs" Line="26">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="LineOne.set(string) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\ItemViewModel.cs" Line="30">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="79" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="LineTwo.get() : string" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\ItemViewModel.cs" Line="47">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="LineTwo.set(string) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\ItemViewModel.cs" Line="51">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="79" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="LineThree.get() : string" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\ItemViewModel.cs" Line="68">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="LineThree.set(string) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\ItemViewModel.cs" Line="72">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="79" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="PropertyChanged.add(PropertyChangedEventHandler) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="5" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="PropertyChanged.remove(PropertyChangedEventHandler) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="5" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="NotifyPropertyChanged(string) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\ItemViewModel.cs" Line="83">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="79" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ItemViewModel()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="MainViewModel">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="73" />
+                              <Metric Name="CyclomaticComplexity" Value="15" />
+                              <Metric Name="ClassCoupling" Value="8" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="42" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="MainViewModel()" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\MainViewModel.cs" Line="31">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="80" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Items.get() : ObservableCollection&lt;ItemViewModel&gt;">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="98" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Items.set(ObservableCollection&lt;ItemViewModel&gt;) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="SampleProperty.get() : string" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\MainViewModel.cs" Line="39">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="SampleProperty.set(string) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\MainViewModel.cs" Line="43">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="79" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsDataLoaded.get() : bool">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="98" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsDataLoaded.set(bool) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="LoadData() : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\MainViewModel.cs" Line="62">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="51" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="17" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="PropertyChanged.add(PropertyChangedEventHandler) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="5" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="PropertyChanged.remove(PropertyChangedEventHandler) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="5" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="NotifyPropertyChanged(string) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\ViewModels\MainViewModel.cs" Line="86">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="79" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="App">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="82" />
+                              <Metric Name="CyclomaticComplexity" Value="22" />
+                              <Metric Name="ClassCoupling" Value="20" />
+                              <Metric Name="DepthOfInheritance" Value="2" />
+                              <Metric Name="LinesOfCode" Value="34" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="ViewModel.get() : MainViewModel" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="29">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="4" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="RootFrame.get() : PhoneApplicationFrame">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="98" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="RootFrame.set(PhoneApplicationFrame) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="App()" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="132">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="66" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="7" />
+                                    <Metric Name="LinesOfCode" Value="8" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Application_Launching(object, LaunchingEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="82">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="0" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Application_Activated(object, ActivatedEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="88">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="85" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Application_Deactivated(object, DeactivatedEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="99">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="0" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Application_Closing(object, ClosingEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="105">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="0" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="RootFrame_NavigationFailed(object, NavigationFailedEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="111">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="87" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Application_UnhandledException(object, ApplicationUnhandledExceptionEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="121">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="87" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="InitializePhoneApplication() : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="136">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="70" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="6" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CompleteInitializePhoneApplication(object, NavigationEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="154">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="78" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="InitializeComponent() : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\App.g.i.cs" Line="44">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="76" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="4" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="App()" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\App.xaml.cs" Line="20">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="MainPage">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="61" />
+                              <Metric Name="CyclomaticComplexity" Value="35" />
+                              <Metric Name="ClassCoupling" Value="18" />
+                              <Metric Name="DepthOfInheritance" Value="8" />
+                              <Metric Name="LinesOfCode" Value="58" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="MainPage()" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="36">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="4" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="MainPage_Loaded(object, RoutedEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="47">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="85" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="FromValueChanged(object, DateTimeValueChangedEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="56">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="0" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ToValueChanged(object, DateTimeValueChangedEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="61">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="6" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="FormatResultsText(DateTime, DateTime, TextBlock, bool) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="76">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="40" />
+                                    <Metric Name="CyclomaticComplexity" Value="26" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="33" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ValueChanged(object, DateTimeValueChangedEventArgs) : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="158">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="70" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="6" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="InitializeComponent() : void" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\MainPage.g.i.cs" Line="57">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="62" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="7" />
+                                    <Metric Name="LinesOfCode" Value="10" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="MainPage.CalculateDateDifference">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="66" />
+                              <Metric Name="CyclomaticComplexity" Value="11" />
+                              <Metric Name="ClassCoupling" Value="2" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="36" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="CalculateDateDifference(DateTime, DateTime)" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="189">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="48" />
+                                    <Metric Name="CyclomaticComplexity" Value="7" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="28" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ToString() : string" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="283">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="81" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Years.get() : int" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="292">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Months.get() : int" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="302">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Days.get() : int" File="C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\MainPage.xaml.cs" Line="311">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="91" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+   </Targets>
+</CodeMetricsReport>

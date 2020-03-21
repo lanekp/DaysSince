@@ -1,0 +1,9 @@
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\Bin\Debug\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\Bin\Debug\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\Bin\Debug\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Debug\DaysSinceClassLibrary.DaysSinceClassLibAppResources.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Debug\DaysSinceClassLibrary.DaysSinceClassLibAppResources.es-ES.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Debug\DaysSinceClassLibrary.csproj.GenerateResource.Cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Debug\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Debug\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Debug\DaysSinceClassLibrary.pdb

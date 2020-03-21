@@ -1,0 +1,38 @@
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\Bin\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.DaysSinceClassLibAppResources.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.DaysSinceClassLibAppResources.es-ES.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.csproj.GenerateResource.Cache
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\obj\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\Bin\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.DaysSinceClassLibAppResources.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.DaysSinceClassLibAppResources.es-ES.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.csproj.GenerateResource.Cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSinceClassLibrary\obj\Release\DaysSinceClassLibrary.pdb

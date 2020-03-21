@@ -1,0 +1,715 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="DaysSince.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696" 
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <!--<controls:Pivot Title="Days Since">-->
+        <controls:Pivot Title="{Binding Path=propLocalizedResources.PivotTitle, Source={StaticResource clsLocalizedStrings}}" >
+            <!--Pivot item one-->
+            <!--<controls:PivotItem Header="Days Since">-->
+            <controls:PivotItem Header="{Binding Path=propLocalizedResources.pvtHdrDaySince, Source={StaticResource clsLocalizedStrings}}">
+                <StackPanel>
+                    <!--<toolkit:DatePicker x:Name="datePicker" Header="Days Since" ValueChanged="SelectedDateValueChanged"/> -->
+                    <toolkit:DatePicker x:Name="datePicker" 
+                                        Header="{Binding Path=propLocalizedResources.dtPickerHdrDaySince, Source={StaticResource clsLocalizedStrings}}"
+                                        ValueChanged="SelectedDateValueChanged"
+                                        />
+                    <TextBlock Height="280" 
+                               Name="textBlock1"  
+                               Text="" 
+                               FontFamily="Arial Narrow" FontSize="34" 
+                               Margin="11"/>
+                    <!-- <CheckBox Content="Save Selected Date" Height="71"  Name="chkUseSelectedDate" Click="SaveDate_Clicked" /> -->
+                    <CheckBox 
+                        Content="{Binding Path=propLocalizedResources.chkBoxSaveSelectedDate, Source={StaticResource clsLocalizedStrings}}"
+                        Height="71"  
+                        Name="chkUseSelectedDate" 
+                        Click="SaveDate_Clicked" />
+                    <!-- <CheckBox Content="Show Date On Live Tile" Height="71" Name="chkShowOnLiveTile" Visibility="Collapsed"  Click="ShowOnLiveTile_Clicked"/> -->
+                    <CheckBox 
+                        Content="{Binding Path=propLocalizedResources.chkBoxShowDateOnLiveTile, Source={StaticResource clsLocalizedStrings}}"
+                        Height="71" Name="chkShowOnLiveTile" Visibility="Collapsed"  Click="ShowOnLiveTile_Clicked"/>
+                </StackPanel>
+            </controls:PivotItem>
+            
+            <!--Pivot item two-->
+            <!-- <controls:PivotItem Header="Date Diff"> -->
+            <controls:PivotItem Header="{Binding Path=propLocalizedResources.pvtHdrDateDiff, Source={StaticResource clsLocalizedStrings}}" >
+                <StackPanel>
+                    <!-- <toolkit:DatePicker x:Name="FromDatePicker" Header="From Date:" ValueChanged="FromValueChanged"/>-->
+                    <toolkit:DatePicker 
+                        x:Name="FromDatePicker" 
+                        Header="{Binding Path=propLocalizedResources.dtPickerFromDate, Source={StaticResource clsLocalizedStrings}}" 
+                        ValueChanged="FromValueChanged"/>
+                    <!-- <toolkit:DatePicker x:Name="ToDatePicker" Header="To Date:" ValueChanged="ToValueChanged"/> -->
+                    <toolkit:DatePicker 
+                        x:Name="ToDatePicker" 
+                        Header="{Binding Path=propLocalizedResources.dtPickerToDate, Source={StaticResource clsLocalizedStrings}}"  
+                        ValueChanged="ToValueChanged"/>
+                    <TextBlock Height="280" Name="textBlock2" Text="" FontFamily="Arial Narrow" FontSize="34" Margin="11"/>
+                </StackPanel>
+            </controls:PivotItem>
+
+            <!--Pivot item three-->
+            <!--<controls:PivotItem Header="Prayers"> -->
+            <controls:PivotItem Header="{Binding Path=propLocalizedResources.pvtHdrPrayers, Source={StaticResource clsLocalizedStrings}}" Margin="12,32,12,-4" >
+                <ScrollViewer Padding="5">
+                    <StackPanel>
+                        <TextBlock Name="textBlock4" 
+                            Text="{Binding Path=propLocalizedResources.txtSerenityPrayer, Source={StaticResource clsLocalizedStrings}}"
+                            FontFamily="Arial Narrow" 
+                            FontSize="32" />
+
+                        <TextBlock Name="textBlock3" 
+                                   Text="{Binding Path=propLocalizedResources.prySerenity, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+                        
+                        <TextBlock Name="textBlockSpacer1" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock7" 
+                                   Text="{Binding Path=propLocalizedResources.txt1stStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock8" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep1Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer2" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock9" 
+                                   Text="{Binding Path=propLocalizedResources.txt2ndStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock10" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep2Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer3" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock11" 
+                                   Text="{Binding Path=propLocalizedResources.txt3rdStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock12" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep3Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer4" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock13" 
+                                   Text="{Binding Path=propLocalizedResources.txt4thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock14" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep4Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer5" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock15" 
+                                   Text="{Binding Path=propLocalizedResources.txt5thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                                   />
+
+                        <TextBlock Name="textBlock16" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep5Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer6" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock17" 
+                                   Text="{Binding Path=propLocalizedResources.txt6thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock18" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep6Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer7" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock19" 
+                                   Text="{Binding Path=propLocalizedResources.txt7thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock20" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep7Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer8" Height="50">
+                        </TextBlock>
+
+                        <TextBlock Name="textBlock21" 
+                                   Text="{Binding Path=propLocalizedResources.txt8thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock22" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep8Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer9" Height="50">
+                        </TextBlock>
+
+
+                        <TextBlock Name="textBlock23" 
+                                   Text="{Binding Path=propLocalizedResources.txt9thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock24" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep9Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+                        
+                        <TextBlock Name="textBlockSpacer10" Height="50">
+                        </TextBlock>
+
+
+                        <TextBlock Name="textBlock25" 
+                                   Text="{Binding Path=propLocalizedResources.txt10thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock26" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep10Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer11" Height="50">
+                        </TextBlock>
+
+
+                        <TextBlock Name="textBlock27" 
+                                   Text="{Binding Path=propLocalizedResources.txt11thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock28" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep11Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer12" Height="50">
+                        </TextBlock>
+
+
+                        <TextBlock Name="textBlock29" 
+                                   Text="{Binding Path=propLocalizedResources.txt12thStepPrayer, Source={StaticResource clsLocalizedStrings}}"
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="32"
+                        />
+
+                        <TextBlock Name="textBlock30" 
+                                   Text="{Binding Path=propLocalizedResources.pryStep12Prayer, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26"/>
+
+                        <TextBlock Name="textBlockSpacer13" Height="50">
+                        </TextBlock>
+
+
+                        <TextBlock Height="105" 
+                                   Name="textBlock31" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayersAreFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="30"
+                                   FontStyle="Italic"/>
+                        
+                        <TextBlock  Height="90"
+                                    Name="textBlock32" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer1IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                   FontSize="26"
+                                   FontStyle="Italic"/>
+
+                        <TextBlock  Height="90"
+                                    Name="textBlock33" 
+                                    Text="{Binding Path=propLocalizedResources.txtWherePrayer2IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"     
+                                    FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+
+                        <TextBlock  Height="90"
+                                    Name="textBlock34" 
+                                    Text="{Binding Path=propLocalizedResources.txtWherePrayer3IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"     
+                                    FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+
+                        <TextBlock  Height="90"
+                                    Name="textBlock35" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer4IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                  
+                        <TextBlock  Height="90"
+                                    Name="textBlock36" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer5IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                        <TextBlock  Height="90"
+                                    Name="textBlock37" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer6IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                        
+                        <TextBlock  Height="90"
+                                    Name="textBlock38" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer7IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                        
+                        <TextBlock  Height="90"
+                                    Name="textBlock39" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer8IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                    
+                        <TextBlock  Height="120"
+                                    Name="textBlock70" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer9IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                        
+                        <TextBlock  Height="120"
+                                    Name="textBlock71" 
+                                    Text="{Binding Path=propLocalizedResources.txtWherePrayer10IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"     
+                                    FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                        
+                        <TextBlock  Height="120"
+                                    Name="textBlock72" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer11IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+                        
+                        <TextBlock  Height="110"
+                                    Name="textBlock73" 
+                                   Text="{Binding Path=propLocalizedResources.txtWherePrayer12IsFrom, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" 
+                                    FontSize="26"
+                                    FontStyle="Italic"/>
+
+                    </StackPanel>
+                    
+                </ScrollViewer>
+            </controls:PivotItem>
+          
+            <!-- Pivot item 4: the 12 steps-->
+            <!-- <controls:PivotItem Header="The 12 Steps"> -->
+            <controls:PivotItem Header="{Binding Path=propLocalizedResources.pvtHdrThe12Steps, Source={StaticResource clsLocalizedStrings}}" >
+                <ScrollViewer>
+                    <StackPanel>
+                        <TextBlock Height="41" 
+                                   Name="textBlock40" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep1, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="txtBlock55"
+                                   Text="{Binding Path=propLocalizedResources.txtStep1Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"
+                                   FontFamily="Arial Narrow" FontSize="26" Width="430" />
+
+                        <TextBlock Name="textBlockSpacer14" Height="50" />
+                        
+                        <TextBlock Height="41" 
+                                Name="textBlock41" 
+                                Text="{Binding Path=propLocalizedResources.txtStep2, Source={StaticResource clsLocalizedStrings}}"
+                                TextWrapping="Wrap"     
+                                FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock56" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep2Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer13" Height="50"/>
+
+                        <TextBlock Height="41" 
+                                   Name="textBlock42" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep3, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock57" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep3Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer33" Height="50"/>
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock43" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep4, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock58" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep4Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer44" Height="50"/>                        
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock44" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep5, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock59" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep5Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer15" Height="50"/>                        
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock45" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep6, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock60" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep6Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer16" Height="50"/>                        
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock46" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep7, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock61" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep7Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer17" Height="50"/>                                                
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock47" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep8, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock62" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep8Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+                        
+                        <TextBlock Name="TextBlockSpacer77" Height="50"/>                                                
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock48" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep9, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock63" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep9Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer777" Height="50"/>                                                
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock49" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep10, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock64" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep10Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer18" Height="50"/>                                                
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock50" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep11, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock65" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep11Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+                        
+                        <TextBlock Name="TextBlockSpacer19" Height="50"/>                                                
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock51" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep12, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+                        
+                        <TextBlock Name="textBlock66" 
+                                   Text="{Binding Path=propLocalizedResources.txtStep12Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+                    
+                        <TextBlock Name="TextBlockSpacer20" Height="50"/>
+
+                    </StackPanel>
+                </ScrollViewer>
+            </controls:PivotItem>
+            
+            
+            <!-- Pivot item 5: the 12 traditions -->
+            <!-- <controls:PivotItem Header="The 12 Traditions"> -->
+            <controls:PivotItem Header="{Binding Path=propLocalizedResources.pvtHdrThe12Traditions, Source={StaticResource clsLocalizedStrings}}" >
+                <ScrollViewer>
+                    <StackPanel>
+                        <TextBlock Height="41" 
+                                   Name="textBlock80" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition1, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="txtBlock81"
+                                   Text="{Binding Path=propLocalizedResources.txtTradition1Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"
+                                   FontFamily="Arial Narrow" FontSize="26" Width="430" />
+
+                        <TextBlock Name="TextBlockSpacer21" Height="50"/>
+
+                        <TextBlock Height="41" 
+                                   Name="textBlock82" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition2, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock83" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition2Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+                        
+                        <TextBlock Name="TextBlockSpacer22" Height="50"/>
+
+                        <TextBlock Height="41" 
+                                   Name="textBlock84" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition3, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock85" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition3Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer23" Height="50"/>                        
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock86" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition4, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        
+                        <TextBlock Name="textBlock87" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition4Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer24" Height="50"/>                        
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock88" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition5, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock89" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition5Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer25" Height="50"/>                        
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock90" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition6, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        
+                        <TextBlock Name="textBlock91" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition6Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+                        
+                        <TextBlock Name="TextBlockSpacer26" Height="50"/>
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock92" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition7, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock93" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition7Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer27" Height="50"/>
+
+                        <TextBlock Height="41" 
+                                   Name="textBlock94" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition8, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock95" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition8Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer28" Height="50"/>                        
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock96" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition9, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        
+                        <TextBlock Name="textBlock97" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition9Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer29" Height="50"/>
+
+                        <TextBlock Height="41" 
+                                   Name="textBlock98" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition10, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock99" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition10Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer30" Height="50"/>
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock100" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition11, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock101" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition11Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+
+                        <TextBlock Name="TextBlockSpacer31" Height="50"/>
+                        
+                        <TextBlock Height="41" 
+                                   Name="textBlock102" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition12, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="32"/>
+
+                        <TextBlock Name="textBlock103" 
+                                   Text="{Binding Path=propLocalizedResources.txtTradition12Content, Source={StaticResource clsLocalizedStrings}}"
+                                   TextWrapping="Wrap"     
+                                   FontFamily="Arial Narrow" FontSize="26" Width="434" />
+                        
+                        <TextBlock Name="TextBlockSpacer32" Height="50"/>
+                        
+                    </StackPanel>
+                </ScrollViewer>
+            </controls:PivotItem> <!-- 12 traditions end -->
+                        
+        </controls:Pivot>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton Click="ApplicationBarIconButton_Click" 
+                                            IconUri="Content/appbar.questionmark.rest.png" 
+                                            Text=""
+                                            />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+    -->
+</phone:PhoneApplicationPage>

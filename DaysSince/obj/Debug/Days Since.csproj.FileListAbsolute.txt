@@ -1,0 +1,60 @@
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\ApplicationIcon.png
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\Background.png
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\PivotControlPractice.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\PivotControlPractice.pdb
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\PivotControlPractice.xap
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Debug\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Debug\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Debug\PivotControlPractice.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Debug\PivotControlPractice.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Debug\PivotControlPractice.pdb
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Debug\XapCacheFile.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\ApplicationIcon.png
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\Background.png
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\DaysSince.xap
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\DaysSince.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Debug\XapCacheFile.xml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\DaysSince.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\DaysSince.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\es-ES\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\AppManifest.xaml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\Days Since_Debug_AnyCPU.xap
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Debug\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\App.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\AboutPage.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\MainPage.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\DaysSince.g.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\DaysSince.AppResources.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\DaysSince.AppResources.es-ES.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\Days Since.csproj.GenerateResource.Cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\es-ES\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\DaysSince.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\DaysSince.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Debug\XapCacheFile.xml

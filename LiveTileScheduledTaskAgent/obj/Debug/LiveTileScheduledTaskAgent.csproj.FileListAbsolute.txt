@@ -1,0 +1,8 @@
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Debug\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Debug\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\Bin\Debug\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\obj\Debug\LiveTileScheduledTaskAgent.csprojResolveAssemblyReference.cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\obj\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\LiveTileScheduledTaskAgent\obj\Debug\LiveTileScheduledTaskAgent.pdb

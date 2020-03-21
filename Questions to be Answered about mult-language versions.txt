@@ -1,0 +1,23 @@
+11/4/13
+different app names?, ie, title?
+different screen shots?
+
+june 17 2014
+can i develop for both wp8 and wp7 with same project in vs2012?
+	you can upload 2 versions, one for 7 other for 8. users will automatically see the right one.
+	http://social.msdn.microsoft.com/Forums/wpapps/en-US/466ff692-743c-498f-826d-0e649467ff0a/publishing-for-wp7-and-wp8-720p-with-same-app?forum=wpsubmit
+
+figure out how to change app title, depending on language
+figure out how to change splashscreen, tile images, depending on language
+
+
+options:
+	keep current version in market, add new version supporting wp8 only.
+		won't have to support 2 versions.
+		
+
+just make the new version support wp8.
+
+	
+
+

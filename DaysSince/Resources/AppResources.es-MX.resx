@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="chkBoxSaveSelectedDate" xml:space="preserve">
+    <value>Guardar la fecha seleccionada</value>
+  </data>
+  <data name="chkBoxShowDateOnLiveTile" xml:space="preserve">
+    <value>Mostrar en Live Tile</value>
+  </data>
+  <data name="dtPickerHdrDaySince" xml:space="preserve">
+    <value>Días Desde</value>
+  </data>
+  <data name="PivotTitle" xml:space="preserve">
+    <value>Días Desde</value>
+  </data>
+  <data name="pvtHdrDateDiff" xml:space="preserve">
+    <value>Diferencia entre fechas</value>
+  </data>
+  <data name="pvtHdrDaySince" xml:space="preserve">
+    <value>Días Desde</value>
+  </data>
+  <data name="pvtHdrPrayers" xml:space="preserve">
+    <value>Oraciones</value>
+  </data>
+  <data name="pvtHdrThe12Steps" xml:space="preserve">
+    <value>Los 12 Pasos</value>
+  </data>
+  <data name="pvtHdrThe12Traditions" xml:space="preserve">
+    <value>Las 12 Tradiciones</value>
+  </data>
+  <data name="dtPickerFromDate" xml:space="preserve">
+    <value>Desde la fecha:</value>
+  </data>
+  <data name="dtPickerToDate" xml:space="preserve">
+    <value>Hasta la fecha:</value>
+  </data>
+  <data name="prySerenity" xml:space="preserve">
+    <value>Dios, dame la serenidad para aceptar las cosas que no puedo cambiar. El valor para cambiar las cosas que si puedo cambiar. Y la inteligencia de saber la diferencia.</value>
+  </data>
+  <data name="txtSerenityPrayer" xml:space="preserve">
+    <value>Oración de la Serenidad</value>
+  </data>
+  <data name="pryStep10Prayer" xml:space="preserve">
+    <value>Querido Dios, oro para que pueda continuar creciendo en entendimiento y eficacia; para hacer un inventario diario de mi persona; para corregir errores cuando los cometo; para asumir responsabilidad por mis acciones; para estar siempre consciente de mis compartimientos negativos y dañinos. Para mantener mi buena voluntad; para recordar siempre que necesito Tu ayuda; para tener el amor y la tolerancia para con los demás como mi código; y para buscar en las oraciones diarias como mejor Te puedo servir.</value>
+  </data>
+  <data name="pryStep11Prayer" xml:space="preserve">
+    <value>Dios, como Te entiendo, oro para que mantenga mi conexión Contigo. Abre y quita de mí la confusión de la vida diaria. Por medio de mis oraciones y meditaciones pido especialmente la liberación de mi voluntad, racionalización y sueños que no se pueden cumplir. Oro por la guía de pensamientos correctos y acción positiva. Hágase Tu voluntad, no la mía.</value>
+  </data>
+  <data name="pryStep12Prayer" xml:space="preserve">
+    <value>Querido Dios, mi despertar espiritual sigue desenvolviéndose. La ayuda que he recibido la voy a compartir y dar a otros, tanto dentro como fuera de la comunidad. Por esta oportunidad, estoy agradecido. Oro humildemente para poder continuar caminando día por día en el camino de progreso espiritual. Oro por la fortaleza interna y sabiduría para practicar los principios de esta forma de vivir en todo lo que digo y hago. Te necesito a Ti, a mis amigos y el Programa cada hora de cada día. Esta es una manera mejor de vivir.</value>
+  </data>
+  <data name="pryStep1Prayer" xml:space="preserve">
+    <value>Querido Dios, admito que soy impotente ante mi adicción. Admito que mi vida está ingobernable cuando la intento controlar. Ayúdame este día a entender el verdadero significado de la impotencia. Elimina de mí toda negación de mi adicción.</value>
+  </data>
+  <data name="pryStep2Prayer" xml:space="preserve">
+    <value>Padre que estás en los cielos, yo sé en mi corazon que solamente Tu puedes devolverme el sano juicio. Humildemente, te pido que elimines de mí en este día, todo pensamiento retorcido y comportamiento adictivo. Sana mi espíritu y devuélveme una mente clara.</value>
+  </data>
+  <data name="pryStep3Prayer" xml:space="preserve">
+    <value>Dios, me ofrezco a Ti para que obres en mí y hagas conmigo Tu voluntad. Líbrame de mi propio encadenamiento, para que pueda cumplir mejor con Tu voluntad. Líbrame de mis dificultades y que la victoria sobre ellas sea el testimonio, para aquellos a quien yo ayude, de Tu poder, Tu amor y la manera en que Tu quieres que vivamos. Que siempre haga tu voluntad.</value>
+  </data>
+  <data name="pryStep4Prayer" xml:space="preserve">
+    <value>Querido Dios, Soy yo quien ha hecho un desastre de mi vida. Lo he hecho yo, pero no puedo arreglarla. Mis errores son míos y voy a empezar un minucioso inventario de mis defectos. Pero también incluiré lo que es bueno. Oro por la fortaleza para cumplir esta tarea.</value>
+  </data>
+  <data name="pryStep5Prayer" xml:space="preserve">
+    <value>Dios, mi inventario me ha mostrado quien soy, Sin embargo quiero pedir Tu ayuda para admitir mis errores ante otra persona y ante Ti. Ilumíname y acompáñame en este paso, porque sin este paso, no puedo progresar en mi recuperación. Con Tu ayuda, puedo hacer esto, y lo haré.</value>
+  </data>
+  <data name="pryStep6Prayer" xml:space="preserve">
+    <value>Querido Dios, estoy listo para recibir tu ayuda para librarme de los defectos de carácter de los cuales ahora me doy cuenta son un obstáculo en mi recuperación. Ayúdame a continuar siendo honesto conmigo mismo y guíame hacia la salud mental y espiritual.</value>
+  </data>
+  <data name="pryStep7Prayer" xml:space="preserve">
+    <value>Creador mío, estoy dispuesto a que tomes todo lo que soy, bueno y malo. Te ruego que elimines de mí cada uno de los defectos de carácter que me obstaculizan en el camino para que logre ser útil a Ti y a mis semejantes. Dame la fortaleza para que al salir de aquí cumpla con Tu voluntad.</value>
+  </data>
+  <data name="pryStep8Prayer" xml:space="preserve">
+    <value>Querido Dios, necesito Tu ayuda para hacer mi lista de todas aquellas personas a quienes he ofendido. Tomaré responsabilidad por mis errores y perdonaré a otros como Tú me perdonas a mi. Concédame la buena voluntad para empezar mi restitución. Esta es mi petición.</value>
+  </data>
+  <data name="pryStep9Prayer" xml:space="preserve">
+    <value>Querido Dios, oro por la actitud correcta para hacer mis enmiendas, siendo siempre consciente de no hacer daño a otros en el proceso. Te pido Tu guía para hacer enmiendas indirectas al seguir abstinente, ayudando a los demás y creciendo en progreso espiritual.</value>
+  </data>
+  <data name="txt10thStepPrayer" xml:space="preserve">
+    <value>Oración del Décimo Paso</value>
+  </data>
+  <data name="txt11thStepPrayer" xml:space="preserve">
+    <value>Oración del Undécimo Paso</value>
+  </data>
+  <data name="txt12thStepPrayer" xml:space="preserve">
+    <value>Oración del Duodécimo Paso</value>
+  </data>
+  <data name="txt1stStepPrayer" xml:space="preserve">
+    <value>Oración del Primer Paso</value>
+  </data>
+  <data name="txt2ndStepPrayer" xml:space="preserve">
+    <value>Oración del Segundo Paso</value>
+  </data>
+  <data name="txt3rdStepPrayer" xml:space="preserve">
+    <value>Oración del Tercer Paso</value>
+  </data>
+  <data name="txt4thStepPrayer" xml:space="preserve">
+    <value>Oración del Cuarto Paso</value>
+  </data>
+  <data name="txt5thStepPrayer" xml:space="preserve">
+    <value>Oración del Quinto Paso</value>
+  </data>
+  <data name="txt6thStepPrayer" xml:space="preserve">
+    <value>Oración del Sexto Paso</value>
+  </data>
+  <data name="txt7thStepPrayer" xml:space="preserve">
+    <value>Oración del Séptimo Paso</value>
+  </data>
+  <data name="txt8thStepPrayer" xml:space="preserve">
+    <value>Oración del Octavo Paso</value>
+  </data>
+  <data name="txt9thStepPrayer" xml:space="preserve">
+    <value>Oración del Noveno Paso</value>
+  </data>
+  <data name="txtStep1" xml:space="preserve">
+    <value>Paso 1</value>
+  </data>
+  <data name="txtStep10" xml:space="preserve">
+    <value>Paso 10</value>
+  </data>
+  <data name="txtStep11" xml:space="preserve">
+    <value>Paso 11</value>
+  </data>
+  <data name="txtStep12" xml:space="preserve">
+    <value>Paso 12</value>
+  </data>
+  <data name="txtStep2" xml:space="preserve">
+    <value>Paso 2</value>
+  </data>
+  <data name="txtStep3" xml:space="preserve">
+    <value>Paso 3</value>
+  </data>
+  <data name="txtStep4" xml:space="preserve">
+    <value>Paso 4</value>
+  </data>
+  <data name="txtStep5" xml:space="preserve">
+    <value>Paso 5</value>
+  </data>
+  <data name="txtStep6" xml:space="preserve">
+    <value>Paso 6</value>
+  </data>
+  <data name="txtStep7" xml:space="preserve">
+    <value>Paso 7</value>
+  </data>
+  <data name="txtStep8" xml:space="preserve">
+    <value>Paso 8</value>
+  </data>
+  <data name="txtStep9" xml:space="preserve">
+    <value>Paso 9</value>
+  </data>
+  <data name="txtStep10Content" xml:space="preserve">
+    <value>Continuamos haciendo nuestro inventario personal y cuando nos equivocábamos lo admitíamos inmediatamente.</value>
+  </data>
+  <data name="txtStep11Content" xml:space="preserve">
+    <value>Buscamos a través de la oración y la meditación mejorar nuestro contacto consciente con Dios, como nosotros lo concebimos, pidiéndole solamente que nos dejase conocer su voluntad para con nosotros y nos diese la fortaleza para cumplirla.</value>
+  </data>
+  <data name="txtStep12Content" xml:space="preserve">
+    <value>Habiendo obtenido un despertar espiritual como resultado de estos pasos, tratamos de llevar este mensaje a los alcohólicos y de practicar estos principios en todos nuestros asuntos.</value>
+  </data>
+  <data name="txtStep1Content" xml:space="preserve">
+    <value>Admitimos que éramos impotentes ante el alcohol y que nuestras vidas se habían vuelto ingobernables.</value>
+  </data>
+  <data name="txtStep2Content" xml:space="preserve">
+    <value>Llegamos al convencimiento de que un Poder Superior podría devolvernos el sano juicio.</value>
+  </data>
+  <data name="txtStep3Content" xml:space="preserve">
+    <value>Decidimos poner nuestras voluntades y nuestras vidas al cuidado de Dios, como nosotros lo concebimos.</value>
+  </data>
+  <data name="txtStep4Content" xml:space="preserve">
+    <value>Sin miedo hicimos un minucioso inventario moral de nosotros mismos.</value>
+  </data>
+  <data name="txtStep5Content" xml:space="preserve">
+    <value>Admitimos ante Dios, ante nosotros mismos y ante otro ser humano, la naturaleza exacta de nuestros defectos.</value>
+  </data>
+  <data name="txtStep6Content" xml:space="preserve">
+    <value>Estuvimos enteramente dispuestos a dejar que Dios nos liberase de todos estos defectos de carácter.</value>
+  </data>
+  <data name="txtStep7Content" xml:space="preserve">
+    <value>Humildemente le pedimos que nos liberase de nuestros defectos.</value>
+  </data>
+  <data name="txtStep8Content" xml:space="preserve">
+    <value>Hicimos una lista de todas aquellas personas a quienes habíamos ofendido y estuvimos dispuestos a reparar el daño que les causamos.</value>
+  </data>
+  <data name="txtStep9Content" xml:space="preserve">
+    <value>Reparamos directamente a cuantos nos fue posible el daño causado, excepto cuando el hacerlo implicaba perjuicio para ellos o para otros.</value>
+  </data>
+  <data name="txtTradition1" xml:space="preserve">
+    <value>Tradición 1</value>
+  </data>
+  <data name="txtTradition10" xml:space="preserve">
+    <value>Tradición 10</value>
+  </data>
+  <data name="txtTradition10Content" xml:space="preserve">
+    <value>A.A. no tiene opinión acerca de asuntos ajenos a sus actividades; por consiguiente, su nombre nunca debe mezclarse en polémicas públicas.</value>
+  </data>
+  <data name="txtTradition11" xml:space="preserve">
+    <value>Tradición 11</value>
+  </data>
+  <data name="txtTradition11Content" xml:space="preserve">
+    <value>Nuestra política de relaciones públicas se basa más bien en la atracción que en la promoción; necesitamos mantener siempre nuestro anonimato personal ante la prensa, la radio y el cine.</value>
+  </data>
+  <data name="txtTradition12" xml:space="preserve">
+    <value>Tradición 12</value>
+  </data>
+  <data name="txtTradition12Content" xml:space="preserve">
+    <value>El anonimato es la base espiritual de todas nuestras Tradiciones, recordándonos siempre anteponer los principios a las personalidades.</value>
+  </data>
+  <data name="txtTradition1Content" xml:space="preserve">
+    <value>Nuestro bienestar común debe tener la preferencia; la recuperación personal depende de la unidad de A.A.</value>
+  </data>
+  <data name="txtTradition2" xml:space="preserve">
+    <value>Tradición 2</value>
+  </data>
+  <data name="txtTradition2Content" xml:space="preserve">
+    <value>Para el propósito de nuestro grupo sólo existe una autoridad fundamental: un Dios amoroso tal como se exprese en la conciencia de nuestro grupo. Nuestros líderes no son más que servidores de confianza. No gobiernan.</value>
+  </data>
+  <data name="txtTradition3" xml:space="preserve">
+    <value>Tradición 3</value>
+  </data>
+  <data name="txtTradition3Content" xml:space="preserve">
+    <value>El único requisito para ser miembro de A.A. es querer dejar de beber.</value>
+  </data>
+  <data name="txtTradition4" xml:space="preserve">
+    <value>Tradición 4</value>
+  </data>
+  <data name="txtTradition4Content" xml:space="preserve">
+    <value>Cada grupo debe ser autónomo, excepto en asuntos que afecten a otros grupos o a Alcohólicos Anónimos, considerado como un todo.</value>
+  </data>
+  <data name="txtTradition5" xml:space="preserve">
+    <value>Tradición 5</value>
+  </data>
+  <data name="txtTradition5Content" xml:space="preserve">
+    <value>Cada grupo tiene un solo objetivo primordial: llevar el mensaje al alcohólico que aún está sufriendo.</value>
+  </data>
+  <data name="txtTradition6" xml:space="preserve">
+    <value>Tradición 6</value>
+  </data>
+  <data name="txtTradition6Content" xml:space="preserve">
+    <value>Un grupo de A.A. nunca debe respaldar, financiar o prestar el nombre de A.A. a ninguna entidad allegada o empresa ajena, para evitar que los problemas de dinero, propiedad y prestigio nos desvíen de nuestro objetivo primordial.</value>
+  </data>
+  <data name="txtTradition7" xml:space="preserve">
+    <value>Tradición 7</value>
+  </data>
+  <data name="txtTradition7Content" xml:space="preserve">
+    <value>Todo grupo de A.A. debe mantenerse completamente a sí mismo, negándose a recibir contribuciones ajenas.</value>
+  </data>
+  <data name="txtTradition8" xml:space="preserve">
+    <value>Tradición 8</value>
+  </data>
+  <data name="txtTradition8Content" xml:space="preserve">
+    <value>A.A. nunca tendrá carácter profesional, pero nuestros centros de servicio pueden emplear trabajadores especiales.</value>
+  </data>
+  <data name="txtTradition9" xml:space="preserve">
+    <value>Tradición 9</value>
+  </data>
+  <data name="txtTradition9Content" xml:space="preserve">
+    <value>A.A. como tal nunca debe ser organizada; pero podemos crear juntas o comités de servicio que sean directamente responsables ante aquellos a quienes sirven.</value>
+  </data>
+  <data name="txtAbout" xml:space="preserve">
+    <value>Acerca de</value>
+  </data>
+  <data name="txtCopyrightCaralex" xml:space="preserve">
+    <value>Derechos de Autor © Caralex</value>
+  </data>
+  <data name="txtFeedbackIsAlways" xml:space="preserve">
+    <value>retroalimentación es siempre apreciado, por favor dénos sus comentarios:</value>
+  </data>
+  <data name="txtIfYouLikeThisApp" xml:space="preserve">
+    <value>Te gusta este App? Calificala:</value>
+  </data>
+  <data name="txtReviewInMarketplace" xml:space="preserve">
+    <value>Revisar en Marketplace</value>
+  </data>
+  <data name="txtEmailUs" xml:space="preserve">
+    <value>Envíanos un Email</value>
+  </data>
+  <data name="txtIfTheAppIsNotLaunched" xml:space="preserve">
+    <value>Si la app no es utilizada en 2 semanas, el Live Tile va a parar de actualizar. Esta es una restricción de Windows Phone.  Debes de reiniciar el App, volver a seleccionar la fecha en "Días Desde", 
+y marcar la casilla  de "Mostrar en Live Tile" de nuevo.</value>
+  </data>
+  <data name="txtInfoInThisAppNotCollected" xml:space="preserve">
+    <value>La información en este App no ha sido almacenada ni distribuida. El propósito de este App es para uso visual personal.</value>
+  </data>
+  <data name="txtLiveTileGetsUpdated" xml:space="preserve">
+    <value>El Live Tile se actualiza cada media hora una vez encendido.</value>
+  </data>
+  <data name="txtNotesColon" xml:space="preserve">
+    <value>Notas:</value>
+  </data>
+  <data name="txtWherePrayer10IsFrom" xml:space="preserve">
+    <value>10: Desarrollada desde Capítulo 6, "En Acción", desde página 78.</value>
+  </data>
+  <data name="txtWherePrayer11IsFrom" xml:space="preserve">
+    <value>11: Desarrollada desde Capítulo 6, "En Acción", desde página 80.</value>
+  </data>
+  <data name="txtWherePrayer12IsFrom" xml:space="preserve">
+    <value>12: Desarrollada desde Capítulo 7, "Trabajando con los Demás", desde página 83.</value>
+  </data>
+  <data name="txtWherePrayer1IsFrom" xml:space="preserve">
+    <value>1: Desarrollada desde Capítulo 3, "Más Acerca del Alcoholismo", página 28.</value>
+  </data>
+  <data name="txtWherePrayer2IsFrom" xml:space="preserve">
+    <value>2: Desarrollada desde Capítulo 5, "Cómo Trabaja", página 54,55.</value>
+  </data>
+  <data name="txtWherePrayer3IsFrom" xml:space="preserve">
+    <value>3: Desarrollada desde Capítulo 5, "Cómo Trabaja", página 59.</value>
+  </data>
+  <data name="txtWherePrayer4IsFrom" xml:space="preserve">
+    <value>4: Desarrollada desde Capítulo 5, "Cómo Trabaja".</value>
+  </data>
+  <data name="txtWherePrayer5IsFrom" xml:space="preserve">
+    <value>5: Desarrollada desde Capítulo 6, "En Acción", página 67 - 70.</value>
+  </data>
+  <data name="txtWherePrayer6IsFrom" xml:space="preserve">
+    <value>6: Desarrollada desde Capítulo 6, "En Acción", página 70, 71.</value>
+  </data>
+  <data name="txtWherePrayer7IsFrom" xml:space="preserve">
+    <value>7: Desarrollada desde Capítulo 6, "En Acción", desde página 71.</value>
+  </data>
+  <data name="txtWherePrayer8IsFrom" xml:space="preserve">
+    <value>8: Desarrollada desde Capítulo 6, "En Acción", desde página 71.</value>
+  </data>
+  <data name="txtWherePrayer9IsFrom" xml:space="preserve">
+    <value>9: Desarrollada desde Capítulo 6, "En Acción", desde página 71.</value>
+  </data>
+  <data name="txtWherePrayersAreFrom" xml:space="preserve">
+    <value>* Donde las oraciones son en el libro grande</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Días Desde</value>
+  </data>
+  <data name="txtVersion" xml:space="preserve">
+    <value>Versión 1.2.0.0</value>
+  </data>
+  <data name="txtPeriodicTaskDesc" xml:space="preserve">
+    <value>Días desde el azulejo de la tarea de actualización</value>
+  </data>
+  <data name="txtBNSError" xml:space="preserve">
+    <value>BNS Error: La acción está desactivada</value>
+    <comment>E</comment>
+  </data>
+  <data name="txtBackAgentsDisabled" xml:space="preserve">
+    <value>Agentes de fondo para esta aplicación que se haya desactivado por el usuario.</value>
+  </data>
+  <data name="txtMaxScheduledActions" xml:space="preserve">
+    <value>BNS Error: El número máximo de ScheduledActions de este tipo ya se han añadido.</value>
+  </data>
+  <data name="txtEmailFeedback" xml:space="preserve">
+    <value>Comentarios sobre Días Desde 1.2.0.0</value>
+  </data>
+</root>

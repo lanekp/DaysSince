@@ -1,0 +1,240 @@
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\ApplicationIcon.png
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\Background.png
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\PivotControlPractice.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\PivotControlPractice.pdb
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\PivotControlPractice.xap
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Release\ResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Release\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Release\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Release\PivotControlPractice.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Release\PivotControlPractice.dll
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Release\PivotControlPractice.pdb
+C:\Users\klane\Documents\MyPhoneProjects\PivotControlPractice\PivotControlPractice\obj\Release\XapCacheFile.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\ApplicationIcon.png
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\FlipBackground.png
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\DaysSince.xap
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\IsolatedStorageExplorer.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Release\ResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\ApplicationIcon.png
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\Content\Back_TileImage173x173.png
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\DaysSince.xap
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\IsolatedStorageExplorer.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\ResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\DynamiceBackTile.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - Copy\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\DaysSince.xap
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\IsolatedStorageExplorer.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\DaysSince - scheduled tiles\DaysSince\obj\Release\AboutPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\DaysSince.xap
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\IsolatedStorageExplorer.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\AboutPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.0.0.0\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\DaysSince.xap
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\IsolatedStorageExplorer.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\AboutPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\ES\DaysSince.resources.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\DaysSince.xap
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\IsolatedStorageExplorer.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\AboutPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.AppResources.resources
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.AppResources.es.ES.resources
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\Days Since.csproj.GenerateResource.Cache
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\ES\DaysSince.resources.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.dll
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\klane\Documents\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\AboutPage.g.i.cs
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.AppResources.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\DaysSince.AppResources.es.ES.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0 - Multi-language Resource\DaysSince\obj\Release\Days Since.csproj.GenerateResource.Cache
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\es-ES\DaysSince.resources.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\DaysSince.xap
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\IsolatedStorageExplorer.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\Bin\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\App.g.i.cs
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\AboutPage.g.i.cs
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\MainPage.g.i.cs
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\DaysSince.AppResources.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\DaysSince.AppResources.es-ES.resources
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\Days Since.csproj.GenerateResource.Cache
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\es-ES\DaysSince.resources.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\DaysSince.dll
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\klane\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\es-ES\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\Days Since_Release_AnyCPU.xap
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\Bin\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\App.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\AboutPage.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\MainPage.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.Resources.AppResources.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.Resources.AppResources.es-ES.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\Days Since.csproj.GenerateResource.Cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\es-ES\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.1.0.0Multi - WP8\DaysSince\obj\Release\XapCacheFile.xml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\DaysSince.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\DaysSince.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\es-ES\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\es-MX\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\AppManifest.xaml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\Days Since_Release_AnyCPU.xap
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\DaysSinceClassLibrary.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\DaysSinceClassLibrary.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\LiveTileScheduledTaskAgent.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\es-ES\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\es-MX\DaysSinceClassLibrary.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\es-ES\LiveTileScheduledTaskAgent.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\Bin\Release\es-MX\LiveTileScheduledTaskAgent.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\Days Since.csprojResolveAssemblyReference.cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\App.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\AboutPage.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\MainPage.g.cs
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.g.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.Resources.AppResources.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.Resources.AppResources.es-ES.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.Resources.AppResources.es-MX.resources
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\Days Since.csproj.GenerateResource.Cache
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\es-ES\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\es-MX\DaysSince.resources.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.dll
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\DaysSince.pdb
+C:\Users\lanekp\SkyDrive\MyPhoneProjects\Days Since - All Versions\DaysSince - V1.2.0.0Multi - WP8\DaysSince\obj\Release\XapCacheFile.xml

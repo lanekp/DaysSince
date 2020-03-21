@@ -1,0 +1,109 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="DaysSince.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" shell:SystemTray.IsVisible="True" d:DesignHeight="768" d:DesignWidth="480">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" 
+                       Text="{Binding Path=propLocalizedResources.PivotTitle, Source={StaticResource clsLocalizedStrings}}"
+                       Style="{StaticResource PhoneTextNormalStyle}"/>
+
+            <TextBlock x:Name="PageTitle" 
+                       Text="{Binding Path=propLocalizedResources.txtAbout, Source={StaticResource clsLocalizedStrings}}"
+                       Margin="9,-7,0,0" 
+                       Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+            
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer>
+                <StackPanel>
+                    <TextBlock Height="30" 
+                                    Name="textBlock1" 
+                                    Text="{Binding Path=propLocalizedResources.txtVersion, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="26"/>
+                    <TextBlock Height="55" 
+                                    Name="textBlock2" 
+                                    Text="{Binding Path=propLocalizedResources.txtCopyrightCaralex, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="26"/>
+
+                    <TextBlock Height="50" 
+                                    Name="textBlock32" 
+                                    Text="{Binding Path=propLocalizedResources.txtIfYouLikeThisApp, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="26"/>
+
+
+                    <Button Content="{Binding Path=propLocalizedResources.txtReviewInMarketplace, Source={StaticResource clsLocalizedStrings}}"
+                            Margin="5"
+                            Height="71" 
+                            Name="btnReview" 
+                            Width="324" 
+                            Click="btnReview_Click"/>
+
+                    <TextBlock Height="60" 
+                                    Name="textBlock33" 
+                                    Text="{Binding Path=propLocalizedResources.txtFeedbackIsAlways, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="26"/>
+
+                    <Button Content="{Binding Path=propLocalizedResources.txtEmailUs, Source={StaticResource clsLocalizedStrings}}"
+                            Margin="11"
+                            Height="71" 
+                            Name="btnEmail" 
+                            Width="324" 
+                            Click="btnEmail_Click"/>
+
+                    <TextBlock Height="30" 
+                                    Name="textBlock34" 
+                                    Text="{Binding Path=propLocalizedResources.txtNotesColon, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="30"/>
+
+                    <TextBlock Height="220" 
+                                    Name="textBlock3" 
+                                    Text="{Binding Path=propLocalizedResources.txtIfTheAppIsNotLaunched, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="26"/>
+
+
+                    <TextBlock Height="150" 
+                                    Name="textBlock4" 
+                                    Text="{Binding Path=propLocalizedResources.txtLiveTileGetsUpdated, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="26"/>
+                    
+                    <TextBlock Height="100" 
+                                    Name="textBlock5" 
+                                    Text="{Binding Path=propLocalizedResources.txtInfoInThisAppNotCollected, Source={StaticResource clsLocalizedStrings}}"
+                                    TextWrapping="Wrap"
+                                    FontFamily="Arial Narrow" FontSize="26"/>
+
+
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+ 
+
+</phone:PhoneApplicationPage>

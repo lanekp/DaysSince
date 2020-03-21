@@ -1,0 +1,35 @@
+Show on Live Tile
+Save Selected Date
+
+From Date:
+To Date:
+Days Since
+Date Diff
+
+
+
+About
+Copyright
+
+Review in Marketplace
+
+email us
+
+If you like this app, please review it:
+
+
+Feedback is always appreciated, so feel free to drop us a line:
+
+
+Notes:
+If the application is not launched for 2 weeks, the Live Tile will stop updating. 
+This is a Windows Phone OS restriction. 
+You must re-launch, re-select your date from 'Days Since' and re-select the 'Show on Live Tile' checkbox again.
+
+
+The Live Tile gets updated every half hour after power-up.  
+So if the 'Days Since' count is off, wait half an hour for it to update correctly.
+
+
+Information in this application is not collected or distributed and is meant only for your viewing pleasure.
+

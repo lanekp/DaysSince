@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="qps-ploc" original="AppResources.resx" tool-id="MultilingualAppToolkit" product-name="Days Since" product-version="1.2.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1250.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resx">
+        <trans-unit id="Resx/dtPickerHdrDaySince" translate="yes" xml:space="preserve">
+          <source>Days Since</source>
+          <target state="new">Days Since</target>
+        </trans-unit>
+        <trans-unit id="Resx/PivotTitle" translate="yes" xml:space="preserve">
+          <source>Days Since</source>
+          <target state="new">Days Since</target>
+        </trans-unit>
+        <trans-unit id="Resx/pvtHdrDaySince" translate="yes" xml:space="preserve">
+          <source>Days Since</source>
+          <target state="new">Days Since</target>
+        </trans-unit>
+        <trans-unit id="Resx/chkBoxSaveSelectedDate" translate="yes" xml:space="preserve">
+          <source>Save Selected Date</source>
+          <target state="new">Save Selected Date</target>
+        </trans-unit>
+        <trans-unit id="Resx/chkBoxShowDateOnLiveTile" translate="yes" xml:space="preserve">
+          <source>Show Date On Live Tile</source>
+          <target state="new">Show Date On Live Tile</target>
+        </trans-unit>
+        <trans-unit id="Resx/pvtHdrDateDiff" translate="yes" xml:space="preserve">
+          <source>Date Diff</source>
+          <target state="new">Date Diff</target>
+        </trans-unit>
+        <trans-unit id="Resx/pvtHdrPrayers" translate="yes" xml:space="preserve">
+          <source>Prayers</source>
+          <target state="new">Prayers</target>
+        </trans-unit>
+        <trans-unit id="Resx/pvtHdrThe12Steps" translate="yes" xml:space="preserve">
+          <source>The 12 Steps</source>
+          <target state="new">The 12 Steps</target>
+        </trans-unit>
+        <trans-unit id="Resx/pvtHdrThe12Traditions" translate="yes" xml:space="preserve">
+          <source>The 12 Traditions</source>
+          <target state="new">The 12 Traditions</target>
+        </trans-unit>
+        <trans-unit id="Resx/dtPickerFromDate" translate="yes" xml:space="preserve">
+          <source>From Date:</source>
+          <target state="new">From Date:</target>
+        </trans-unit>
+        <trans-unit id="Resx/dtPickerToDate" translate="yes" xml:space="preserve">
+          <source>To Date:</source>
+          <target state="new">To Date:</target>
+        </trans-unit>
+        <trans-unit id="Resx/prySerenity" translate="yes" xml:space="preserve">
+          <source>God grant me the serenity to accept the things I cannot change, the courage to change the things I can and the wisdom to know the difference.</source>
+          <target state="new">God grant me the serenity to accept the things I cannot change, the courage to change the things I can and the wisdom to know the difference.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtSerenityPrayer" translate="yes" xml:space="preserve">
+          <source>Serenity Prayer</source>
+          <target state="new">Serenity Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep10Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I pray I may continue: To grow in understanding and effectiveness; To take daily spot check inventories of myself; To correct mistakes when I make them; To take responsibility for my actions; To be ever aware of my negative and self-defeating attitudes and behaviors; To keep my willfulness in check; To always remember I need Your help; To keep love and tolerance of others as my code; And to continue in daily prayer how I can best serve You, My Higher Power.</source>
+          <target state="new">Dear Higher Power, I pray I may continue: To grow in understanding and effectiveness; To take daily spot check inventories of myself; To correct mistakes when I make them; To take responsibility for my actions; To be ever aware of my negative and self-defeating attitudes and behaviors; To keep my willfulness in check; To always remember I need Your help; To keep love and tolerance of others as my code; And to continue in daily prayer how I can best serve You, My Higher Power.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep11Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I pray to keep my connection with You open and clear from the confusion of daily life. Through my prayers and meditation I ask especially for freedom from self-will, rationalization, and wishful thinking. I pray for the guidance of correct thought and positive action. Your will, Higher Power, not mine, be done.</source>
+          <target state="new">Dear Higher Power, I pray to keep my connection with You open and clear from the confusion of daily life. Through my prayers and meditation I ask especially for freedom from self-will, rationalization, and wishful thinking. I pray for the guidance of correct thought and positive action. Your will, Higher Power, not mine, be done.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep12Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, my spiritual awakening continues to unfold. The help I have received I shall pass on and give to others, both in and out of the Fellowship. For this opportunity I am grateful. I pray most humbly to continue walking day by day on the road of spiritual progress. I pray for the inner strength and wisdom to practice the principles of this way of life in all I do and say. I need You, my friends, and the program every hour of every day. This is a better way to live.</source>
+          <target state="new">Dear Higher Power, my spiritual awakening continues to unfold. The help I have received I shall pass on and give to others, both in and out of the Fellowship. For this opportunity I am grateful. I pray most humbly to continue walking day by day on the road of spiritual progress. I pray for the inner strength and wisdom to practice the principles of this way of life in all I do and say. I need You, my friends, and the program every hour of every day. This is a better way to live.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep1Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, my name is ____. I'm a real alcoholic... and I need your help today.</source>
+          <target state="new">Dear Higher Power, my name is ____. I'm a real alcoholic... and I need your help today.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep2Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I'm standing at the turning point right now. Give me your protection and care as I abandon myself to you and give up my old ways and my old ideas just for today.</source>
+          <target state="new">Dear Higher Power, I'm standing at the turning point right now. Give me your protection and care as I abandon myself to you and give up my old ways and my old ideas just for today.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep3Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I offer myself to Thee to build with me and to do with me as Thou wilt. Relieve me of the bondage of self, that I may better do Thy will. Take away my difficulties, that victory over them may bear witness to those I would help of Thy Power, Thy Love, and Thy Way of life. May I do Thy will always.</source>
+          <target state="new">Dear Higher Power, I offer myself to Thee to build with me and to do with me as Thou wilt. Relieve me of the bondage of self, that I may better do Thy will. Take away my difficulties, that victory over them may bear witness to those I would help of Thy Power, Thy Love, and Thy Way of life. May I do Thy will always.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep4Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, It is I who has made my life a mess. I have done it, but I cannot undo it. My mistakes are mine and I will begin a searching and fearless moral inventory. I will write down my wrongs but I will also include that which is good. I pray for the strength to complete the task.</source>
+          <target state="new">Dear Higher Power, It is I who has made my life a mess. I have done it, but I cannot undo it. My mistakes are mine and I will begin a searching and fearless moral inventory. I will write down my wrongs but I will also include that which is good. I pray for the strength to complete the task.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep5Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, My inventory has shown me who I am, Yet I ask for Your help in admitting my wrongs to another person and to You. Assure me, and be with me, in this step, for without this Step I cannot progress in my recovery. With Your help, I can do this, and I do it.</source>
+          <target state="new">Dear Higher Power, My inventory has shown me who I am, Yet I ask for Your help in admitting my wrongs to another person and to You. Assure me, and be with me, in this step, for without this Step I cannot progress in my recovery. With Your help, I can do this, and I do it.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep6Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I am ready for Your help in removing from me the defects of character which I now realize are an obstacle to my recovery. Help me to continue being honest with myself and guide me toward spiritual and mental health.</source>
+          <target state="new">Dear Higher Power, I am ready for Your help in removing from me the defects of character which I now realize are an obstacle to my recovery. Help me to continue being honest with myself and guide me toward spiritual and mental health.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep7Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I am now willing that you should have all of me, good and bad. I pray that you now remove from me every single defect of character which stands in the way of my usefulness to you and my fellows. Grant me strength, as I go out from here to do your bidding.</source>
+          <target state="new">Dear Higher Power, I am now willing that you should have all of me, good and bad. I pray that you now remove from me every single defect of character which stands in the way of my usefulness to you and my fellows. Grant me strength, as I go out from here to do your bidding.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep8Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I ask Your help in making my list of all those I have harmed. I will take responsibility for my mistakes and be forgiving to others as You are forgiving to me. Grant me the willingness to begin my restitution. This I pray.</source>
+          <target state="new">Dear Higher Power, I ask Your help in making my list of all those I have harmed. I will take responsibility for my mistakes and be forgiving to others as You are forgiving to me. Grant me the willingness to begin my restitution. This I pray.</target>
+        </trans-unit>
+        <trans-unit id="Resx/pryStep9Prayer" translate="yes" xml:space="preserve">
+          <source>Dear Higher Power, I pray for the right attitude to make my amends, being ever mindful not to harm others in the process. I ask for Your guidance in making indirect amends. Most important, I will continue to make amends by staying abstinent, helping others and growing in spiritual progress.</source>
+          <target state="new">Dear Higher Power, I pray for the right attitude to make my amends, being ever mindful not to harm others in the process. I ask for Your guidance in making indirect amends. Most important, I will continue to make amends by staying abstinent, helping others and growing in spiritual progress.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt10thStepPrayer" translate="yes" xml:space="preserve">
+          <source>10th Step Prayer</source>
+          <target state="new">10th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt11thStepPrayer" translate="yes" xml:space="preserve">
+          <source>11th Step Prayer</source>
+          <target state="new">11th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt12thStepPrayer" translate="yes" xml:space="preserve">
+          <source>12th Step Prayer</source>
+          <target state="new">12th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt1stStepPrayer" translate="yes" xml:space="preserve">
+          <source>1st Step Prayer</source>
+          <target state="new">1st Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt2ndStepPrayer" translate="yes" xml:space="preserve">
+          <source>2nd Step Prayer</source>
+          <target state="new">2nd Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt3rdStepPrayer" translate="yes" xml:space="preserve">
+          <source>3rd Step Prayer</source>
+          <target state="new">3rd Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt4thStepPrayer" translate="yes" xml:space="preserve">
+          <source>4th Step Prayer</source>
+          <target state="new">4th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt5thStepPrayer" translate="yes" xml:space="preserve">
+          <source>5th Step Prayer</source>
+          <target state="new">5th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt6thStepPrayer" translate="yes" xml:space="preserve">
+          <source>6th Step Prayer</source>
+          <target state="new">6th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt7thStepPrayer" translate="yes" xml:space="preserve">
+          <source>7th Step Prayer</source>
+          <target state="new">7th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt8thStepPrayer" translate="yes" xml:space="preserve">
+          <source>8th Step Prayer</source>
+          <target state="new">8th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txt9thStepPrayer" translate="yes" xml:space="preserve">
+          <source>9th Step Prayer</source>
+          <target state="new">9th Step Prayer</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep1" translate="yes" xml:space="preserve">
+          <source>Step 1</source>
+          <target state="new">Step 1</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep10" translate="yes" xml:space="preserve">
+          <source>Step 10</source>
+          <target state="new">Step 10</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep11" translate="yes" xml:space="preserve">
+          <source>Step 11</source>
+          <target state="new">Step 11</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep12" translate="yes" xml:space="preserve">
+          <source>Step 12</source>
+          <target state="new">Step 12</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep2" translate="yes" xml:space="preserve">
+          <source>Step 2</source>
+          <target state="new">Step 2</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep3" translate="yes" xml:space="preserve">
+          <source>Step 3</source>
+          <target state="new">Step 3</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep4" translate="yes" xml:space="preserve">
+          <source>Step 4</source>
+          <target state="new">Step 4</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep5" translate="yes" xml:space="preserve">
+          <source>Step 5</source>
+          <target state="new">Step 5</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep6" translate="yes" xml:space="preserve">
+          <source>Step 6</source>
+          <target state="new">Step 6</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep7" translate="yes" xml:space="preserve">
+          <source>Step 7</source>
+          <target state="new">Step 7</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep8" translate="yes" xml:space="preserve">
+          <source>Step 8</source>
+          <target state="new">Step 8</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep9" translate="yes" xml:space="preserve">
+          <source>Step 9</source>
+          <target state="new">Step 9</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep10Content" translate="yes" xml:space="preserve">
+          <source>Continued to take personal inventory and when we were wrong promptly admitted it.</source>
+          <target state="new">Continued to take personal inventory and when we were wrong promptly admitted it.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep11Content" translate="yes" xml:space="preserve">
+          <source>Sought through prayer and meditation to improve our conscious contact with God, as we understood Him, praying only for knowledge of His will for us and the power to carry that out.</source>
+          <target state="new">Sought through prayer and meditation to improve our conscious contact with God, as we understood Him, praying only for knowledge of His will for us and the power to carry that out.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep12Content" translate="yes" xml:space="preserve">
+          <source>Having had a spiritual awakening as the result of these Steps, we tried to carry this message to other alcoholics, and to practice these principles in all our affairs.</source>
+          <target state="new">Having had a spiritual awakening as the result of these Steps, we tried to carry this message to other alcoholics, and to practice these principles in all our affairs.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep1Content" translate="yes" xml:space="preserve">
+          <source>We admitted we were powerless over alcohol - that our lives had become unmanageable.</source>
+          <target state="new">We admitted we were powerless over alcohol - that our lives had become unmanageable.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep2Content" translate="yes" xml:space="preserve">
+          <source>Came to believe that a Power greater than ourselves could restore us to sanity.</source>
+          <target state="new">Came to believe that a Power greater than ourselves could restore us to sanity.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep3Content" translate="yes" xml:space="preserve">
+          <source>Made a decision to turn our will and our lives over to the care of God as we understood Him.</source>
+          <target state="new">Made a decision to turn our will and our lives over to the care of God as we understood Him.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep4Content" translate="yes" xml:space="preserve">
+          <source>Made a searching and fearless moral inventory of ourselves.</source>
+          <target state="new">Made a searching and fearless moral inventory of ourselves.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep5Content" translate="yes" xml:space="preserve">
+          <source>Admitted to God, to ourselves and to another human being the exact nature of our wrongs.</source>
+          <target state="new">Admitted to God, to ourselves and to another human being the exact nature of our wrongs.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep6Content" translate="yes" xml:space="preserve">
+          <source>Were entirely ready to have God remove all these defects of character.</source>
+          <target state="new">Were entirely ready to have God remove all these defects of character.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep7Content" translate="yes" xml:space="preserve">
+          <source>Humbly asked Him to remove our shortcomings.</source>
+          <target state="new">Humbly asked Him to remove our shortcomings.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep8Content" translate="yes" xml:space="preserve">
+          <source>Made a list of all persons we had harmed, and became willing to make amends to them all.</source>
+          <target state="new">Made a list of all persons we had harmed, and became willing to make amends to them all.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtStep9Content" translate="yes" xml:space="preserve">
+          <source>Made direct amends to such people wherever possible, except when to do so would injure them or others.</source>
+          <target state="new">Made direct amends to such people wherever possible, except when to do so would injure them or others.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition1" translate="yes" xml:space="preserve">
+          <source>Tradition 1</source>
+          <target state="new">Tradition 1</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition10" translate="yes" xml:space="preserve">
+          <source>Tradition 10</source>
+          <target state="new">Tradition 10</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition10Content" translate="yes" xml:space="preserve">
+          <source>Alcoholics Anonymous has no opinion on outside issues; hence the A.A. name ought never be drawn into public controversy.</source>
+          <target state="new">Alcoholics Anonymous has no opinion on outside issues; hence the A.A. name ought never be drawn into public controversy.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition11" translate="yes" xml:space="preserve">
+          <source>Tradition 11</source>
+          <target state="new">Tradition 11</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition11Content" translate="yes" xml:space="preserve">
+          <source>Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.</source>
+          <target state="new">Our public relations policy is based on attraction rather than promotion; we need always maintain personal anonymity at the level of press, radio, and films.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition12" translate="yes" xml:space="preserve">
+          <source>Tradition 12</source>
+          <target state="new">Tradition 12</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition12Content" translate="yes" xml:space="preserve">
+          <source>Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.</source>
+          <target state="new">Anonymity is the spiritual foundation of all our Traditions, ever reminding us to place principles before personalities.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition1Content" translate="yes" xml:space="preserve">
+          <source>Our common welfare should come first; personal recovery depends upon A.A. unity.</source>
+          <target state="new">Our common welfare should come first; personal recovery depends upon A.A. unity.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition2" translate="yes" xml:space="preserve">
+          <source>Tradition 2</source>
+          <target state="new">Tradition 2</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition2Content" translate="yes" xml:space="preserve">
+          <source>For our group purpose there is but one ultimate authority—a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern.</source>
+          <target state="new">For our group purpose there is but one ultimate authority—a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition3" translate="yes" xml:space="preserve">
+          <source>Tradition 3</source>
+          <target state="new">Tradition 3</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition3Content" translate="yes" xml:space="preserve">
+          <source>The only requirement for A.A. membership is a desire to stop drinking.</source>
+          <target state="new">The only requirement for A.A. membership is a desire to stop drinking.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition4" translate="yes" xml:space="preserve">
+          <source>Tradition 4</source>
+          <target state="new">Tradition 4</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition4Content" translate="yes" xml:space="preserve">
+          <source>Each group should be autonomous except in matters affecting other groups or A.A. as a whole.</source>
+          <target state="new">Each group should be autonomous except in matters affecting other groups or A.A. as a whole.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition5" translate="yes" xml:space="preserve">
+          <source>Tradition 5</source>
+          <target state="new">Tradition 5</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition5Content" translate="yes" xml:space="preserve">
+          <source>Each group has but one primary purpose—to carry its message to the alcoholic who still suffers.</source>
+          <target state="new">Each group has but one primary purpose—to carry its message to the alcoholic who still suffers.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition6" translate="yes" xml:space="preserve">
+          <source>Tradition 6</source>
+          <target state="new">Tradition 6</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition6Content" translate="yes" xml:space="preserve">
+          <source>An A.A. group ought never endorse, finance, or lend the A.A. name to any related facility or outside enterprise, lest problems of money, property, and prestige divert us from our primary purpose.</source>
+          <target state="new">An A.A. group ought never endorse, finance, or lend the A.A. name to any related facility or outside enterprise, lest problems of money, property, and prestige divert us from our primary purpose.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition7" translate="yes" xml:space="preserve">
+          <source>Tradition 7</source>
+          <target state="new">Tradition 7</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition7Content" translate="yes" xml:space="preserve">
+          <source>Every A.A. group ought to be fully self-supporting, declining outside contributions.</source>
+          <target state="new">Every A.A. group ought to be fully self-supporting, declining outside contributions.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition8" translate="yes" xml:space="preserve">
+          <source>Tradition 8</source>
+          <target state="new">Tradition 8</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition8Content" translate="yes" xml:space="preserve">
+          <source>Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers.</source>
+          <target state="new">Alcoholics Anonymous should remain forever nonprofessional, but our service centers may employ special workers.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition9" translate="yes" xml:space="preserve">
+          <source>Tradition 9</source>
+          <target state="new">Tradition 9</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtTradition9Content" translate="yes" xml:space="preserve">
+          <source>A.A., as such, ought never be organized; but we may create service boards or committees directly responsible to those they serve.</source>
+          <target state="new">A.A., as such, ought never be organized; but we may create service boards or committees directly responsible to those they serve.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtAbout" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="new">About</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtCopyrightCaralex" translate="yes" xml:space="preserve">
+          <source>Copyright © Caralex</source>
+          <target state="new">Copyright © Caralex</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtFeedbackIsAlways" translate="yes" xml:space="preserve">
+          <source>Feedback is always appreciated, so feel free to drop us a line:</source>
+          <target state="new">Feedback is always appreciated, so feel free to drop us a line:</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtIfYouLikeThisApp" translate="yes" xml:space="preserve">
+          <source>If you like this app, please review it:</source>
+          <target state="new">If you like this app, please review it:</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtReviewInMarketplace" translate="yes" xml:space="preserve">
+          <source>Review in Marketplace</source>
+          <target state="new">Review in Marketplace</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtEmailUs" translate="yes" xml:space="preserve">
+          <source>Email Us</source>
+          <target state="new">Email Us</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtIfTheAppIsNotLaunched" translate="yes" xml:space="preserve">
+          <source>If the application is not launched for 2 weeks, the Live Tile will stop updating. This is a Windows Phone OS restriction. You must re-launch, re-select your date from 'Days Since' and re-select the 'Show on Live Tile' checkbox again.</source>
+          <target state="new">If the application is not launched for 2 weeks, the Live Tile will stop updating. This is a Windows Phone OS restriction. You must re-launch, re-select your date from 'Days Since' and re-select the 'Show on Live Tile' checkbox again.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtInfoInThisAppNotCollected" translate="yes" xml:space="preserve">
+          <source>Information in this application is not collected or distributed and is meant only for your viewing pleasure.</source>
+          <target state="new">Information in this application is not collected or distributed and is meant only for your viewing pleasure.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtLiveTileGetsUpdated" translate="yes" xml:space="preserve">
+          <source>The Live Tile gets updated every half hour after power-up.  So if the 'Days Since' count is off, wait half an hour for it to update correctly.</source>
+          <target state="new">The Live Tile gets updated every half hour after power-up.  So if the 'Days Since' count is off, wait half an hour for it to update correctly.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtNotesColon" translate="yes" xml:space="preserve">
+          <source>Notes:</source>
+          <target state="new">Notes:</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer10IsFrom" translate="yes" xml:space="preserve">
+          <source>10: Developed from Chapter 6, "Into Action", from pg 84 thru pg 85. (4th ed,)</source>
+          <target state="new">10: Developed from Chapter 6, "Into Action", from pg 84 thru pg 85. (4th ed,)</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer11IsFrom" translate="yes" xml:space="preserve">
+          <source>11: Developed from Chapter 6, "Into Action", from pg 85 thru pg 88. (4th ed.)</source>
+          <target state="new">11: Developed from Chapter 6, "Into Action", from pg 85 thru pg 88. (4th ed.)</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer12IsFrom" translate="yes" xml:space="preserve">
+          <source>12: Developed from Chapter 7, "Working With Others", from pg 89. (4th ed.)</source>
+          <target state="new">12: Developed from Chapter 7, "Working With Others", from pg 89. (4th ed.)</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer1IsFrom" translate="yes" xml:space="preserve">
+          <source>1: Developed from Chapter 3, "More About Alcoholism", pg 30. (4th ed.)</source>
+          <target state="new">1: Developed from Chapter 3, "More About Alcoholism", pg 30. (4th ed.)</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer2IsFrom" translate="yes" xml:space="preserve">
+          <source>2: Developed from Chapter 5, "How It Works", pg 59. (4th ed.)</source>
+          <target state="new">2: Developed from Chapter 5, "How It Works", pg 59. (4th ed.)</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer3IsFrom" translate="yes" xml:space="preserve">
+          <source>3: From Chapter 5, "How It Works", pg 63. (4th ed.)</source>
+          <target state="new">3: From Chapter 5, "How It Works", pg 63. (4th ed.)</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer4IsFrom" translate="yes" xml:space="preserve">
+          <source>4: Developed from chapter 5, "How It Works", (4th ed).</source>
+          <target state="new">4: Developed from chapter 5, "How It Works", (4th ed).</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer5IsFrom" translate="yes" xml:space="preserve">
+          <source>5: Developed from chapter 6, "Into Action", pg 72 thru pg 75. (4th ed).</source>
+          <target state="new">5: Developed from chapter 6, "Into Action", pg 72 thru pg 75. (4th ed).</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer6IsFrom" translate="yes" xml:space="preserve">
+          <source>6: Developed from Chapter 6, "Into Action", From pg 76. (4th ed.)</source>
+          <target state="new">6: Developed from Chapter 6, "Into Action", From pg 76. (4th ed.)</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer7IsFrom" translate="yes" xml:space="preserve">
+          <source>7: From Chapter 6, "Into Action",. From pg 76:2. (4th ed).</source>
+          <target state="new">7: From Chapter 6, "Into Action",. From pg 76:2. (4th ed).</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer8IsFrom" translate="yes" xml:space="preserve">
+          <source>8: Developed from Chapter 6, "Into Action", from pg 76. (4th ed).</source>
+          <target state="new">8: Developed from Chapter 6, "Into Action", from pg 76. (4th ed).</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayer9IsFrom" translate="yes" xml:space="preserve">
+          <source>9: Developed from Chapter 6, "Into Action", from pg 84 thru pg 85. (4th ed).</source>
+          <target state="new">9: Developed from Chapter 6, "Into Action", from pg 84 thru pg 85. (4th ed).</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtWherePrayersAreFrom" translate="yes" xml:space="preserve">
+          <source>* Where the prayers are from in the Big Book:</source>
+          <target state="new">* Where the prayers are from in the Big Book:</target>
+        </trans-unit>
+        <trans-unit id="Resx/AppTitle" translate="yes" xml:space="preserve">
+          <source>Days Since</source>
+          <target state="new">Days Since</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtVersion" translate="yes" xml:space="preserve">
+          <source>Version 1.2.0.0</source>
+          <target state="new">Version 1.2.0.0</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtBackAgentsDisabled" translate="yes" xml:space="preserve">
+          <source>Background agents for this application have been disabled by the user.</source>
+          <target state="new">Background agents for this application have been disabled by the user.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtBNSError" translate="yes" xml:space="preserve">
+          <source>BNS Error: The action is disabled</source>
+          <target state="new">BNS Error: The action is disabled</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">E</note>
+          </trans-unit>
+        <trans-unit id="Resx/txtMaxScheduledActions" translate="yes" xml:space="preserve">
+          <source>BNS Error: The maximum number of ScheduledActions of this type have already been added.</source>
+          <target state="new">BNS Error: The maximum number of ScheduledActions of this type have already been added.</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtPeriodicTaskDesc" translate="yes" xml:space="preserve">
+          <source>Days Since Tile Update Task</source>
+          <target state="new">Days Since Tile Update Task</target>
+        </trans-unit>
+        <trans-unit id="Resx/txtEmailFeedback" translate="yes" xml:space="preserve">
+          <source>Feedback on Days Since app v1.2.0.0</source>
+          <target state="new">Feedback on Days Since app v1.2.0.0</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

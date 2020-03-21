@@ -1,0 +1,16 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="DaysSince" EntryPointType="DaysSince.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="DaysSince" Source="DaysSince.dll" />
+    <AssemblyPart x:Name="DaysSinceClassLibrary" Source="DaysSinceClassLibrary.dll" />
+    <AssemblyPart x:Name="IsolatedStorageExplorer" Source="IsolatedStorageExplorer.dll" />
+    <AssemblyPart x:Name="LiveTileScheduledTaskAgent" Source="LiveTileScheduledTaskAgent.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart Source="es-ES/DaysSince.resources.dll" />
+    <AssemblyPart Source="es-MX/DaysSince.resources.dll" />
+    <AssemblyPart Source="es-ES/DaysSinceClassLibrary.resources.dll" />
+    <AssemblyPart Source="es-MX/DaysSinceClassLibrary.resources.dll" />
+    <AssemblyPart Source="es-ES/LiveTileScheduledTaskAgent.resources.dll" />
+    <AssemblyPart Source="es-MX/LiveTileScheduledTaskAgent.resources.dll" />
+  </Deployment.Parts>
+</Deployment>
